@@ -16,5 +16,8 @@ https://functionappopenapiaj.azurewebsites.net/api/swagger.json
 
 ![](docs/2023-03-31%2010_55_39-functionappopenapiaj%20-%20Microsoft%20Azure.png)
 
+References:
 
-([Reference](https://github.com/Azure/azure-functions-openapi-extension/blob/main/docs/enable-open-api-endpoints-in-proc.md))
+1. [Official Documentation](https://github.com/Azure/azure-functions-openapi-extension/blob/main/docs/enable-open-api-endpoints-in-proc.md)
+
+1. [Enabling OpenAPI Specifications for Azure Function](https://blogs.perficient.com/2022/05/09/enabling-openapi-specifications-for-azure-function/#:~:text=In%20November%202021%2C%20Azure%20Functions%20provided%20support%20to,possible%20by%20the%20usage%20of%20NuGet%20Package%20Microsoft.Azure.WebJobs.Extensions.OpenApi.)
