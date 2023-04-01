@@ -1,6 +1,8 @@
 # azure-function-openapi
 Add Open API Support to existing Azure function V4 - developed using in process model
 
+**nuget package** `Microsoft.Azure.WebJobs.Extensions.OpenApi `
+
 steps
 - create function app and host it on azure
 - create an apim
