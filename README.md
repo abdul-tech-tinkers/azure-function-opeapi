@@ -10,7 +10,7 @@ steps
 - set the function access code in apim as inbound processing query parameter
 
 browse the swagger on hosted function app e.g
-https://functionappopenapiaj.azurewebsites.net/api/swagger.json
+https://[FunctionAPPName].azurewebsites.net/api/swagger.json
 
 ![](docs/2023-03-31%2010_39_46-.png)
 
